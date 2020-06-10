@@ -112,7 +112,3 @@ while True:
             print(cursor.rowcount, "record(s) deleted")
     
     time.sleep(60);
-
-
-#episodes = p.get_episodes("Hibike! Euphonium")
-#print(episodes[len(episodes)-1]['episode'])
