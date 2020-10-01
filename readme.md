@@ -24,8 +24,3 @@ TODO
 
 Homepage:
 ![homepage](https://github.com/Paul-Austria/streaming/blob/master/images/streamsave.JPG)
-
-
-List with all available shows:
-
-![homepage](https://github.com/Paul-Austria/streaming/blob/master/images/p2.JPG?raw=true)
